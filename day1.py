@@ -27,3 +27,4 @@ class testcrunch(unittest.TestCase):
 if __name__ == '__main__':
 	#unittest.main()
 	print crunch(puzzleinput)
+	print "Also, I love you"
